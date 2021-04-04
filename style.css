@@ -1,0 +1,26 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#wrapper {
+    width: 1200px;
+    margin: auto;
+    background-color: #062134;
+    padding: 10px 15px 20px 15px;
+}
+
+h1 {
+    font-size: 2em;
+    color: white;
+    margin: 20px 100px 20px 40px;
+    width: 370px;
+    display: inline-block;
+    font-family: "Roboto", serif;
+}
+
+#ninja-cat {
+    margin: 30px;
+}
+
+
